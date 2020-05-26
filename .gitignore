@@ -5,3 +5,7 @@ node_modules/
 #BUILD
 
 .next/
+
+#ENVIRONMENT VARIABLES
+
+.env
