@@ -1,3 +1,7 @@
-NPM PACKAGES
+#NPM PACKAGES
 
 node_modules/
+
+#BUILD
+
+.next/
